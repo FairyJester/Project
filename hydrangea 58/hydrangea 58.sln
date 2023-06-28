@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hydrangea 58", "hydrangea 58\hydrangea 58.csproj", "{AFB04459-2305-445B-AF13-58FDEDF1CB3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hydrangea 58.Tests", "hydrangea 58.Tests\hydrangea 58.Tests.csproj", "{3FFBFFC9-B488-4310-850C-00B5DDFCAE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB04459-2305-445B-AF13-58FDEDF1CB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB04459-2305-445B-AF13-58FDEDF1CB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB04459-2305-445B-AF13-58FDEDF1CB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB04459-2305-445B-AF13-58FDEDF1CB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFBFFC9-B488-4310-850C-00B5DDFCAE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFBFFC9-B488-4310-850C-00B5DDFCAE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFBFFC9-B488-4310-850C-00B5DDFCAE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFBFFC9-B488-4310-850C-00B5DDFCAE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74CF7D50-4994-483E-A4BC-5CB52E67F89F}
+	EndGlobalSection
+EndGlobal
